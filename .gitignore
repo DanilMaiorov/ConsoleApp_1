@@ -1,4 +1,2 @@
-logs/*.log
-!logs/main.log
-
-
+ConsoleApp_1/bin
+ConsoleApp_1/obj
