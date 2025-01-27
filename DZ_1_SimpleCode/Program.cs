@@ -5,14 +5,25 @@
 
         //Задание 1
 
-        public static double Average(int a, int b)
+        static double firstValue, secondValue;
+
+        public static double Average(double a, double b)
         {
-            double result = (double)(a + b) / 2;
-            return result;
+            Console.WriteLine("Введи первое число");
+
+            a = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Введи второе число");
+
+            a = double.Parse(Console.ReadLine());
+
+            double average = (a + b) / 2;
+
+            return average;
         }
 
        
-        static int[] nums = new int[3];
+        static int[] values = new int[3];
 
 
         public static int[] Arr(int[] array)
@@ -59,35 +70,17 @@
 
         public static void Converter()
         {
-            Console.WriteLine("Введи валюту\n");
-            string currentCurrency = Console.ReadLine();
-
-            Console.WriteLine("Выбрана валюта " + currentCurrency + "\n");
             Console.WriteLine("Введи количество валюты\n");
 
             var currencyValue = Console.ReadLine();
 
-            bool result = double.TryParse(currencyValue, out double currencyAmount);
+            var currencyAmount = double.Parse(currencyValue);
 
-            double dollar = 55.5;
-            double euro = 65.5;
+            double UsdToRUB = 95.87;
+            double EuroToRUB = 101.33;
 
-            double sum = 0;
-
-            if (currentCurrency == "доллар")
-            {
-                sum = dollar * currencyAmount;
-
-                Console.WriteLine("Получается вот столько " + sum + " рублей из долларов");
-            } else if (currentCurrency == "евро")
-            {
-                sum = euro * currencyAmount;
-
-                Console.WriteLine("Получается вот столько " + sum + " рублей из евро");
-            } else
-            {
-                Console.WriteLine("Это конвертируется");
-            }
+            Console.WriteLine(UsdToRUB + " долларов это " + (UsdToRUB * currencyAmount) + " рублей\n");
+            Console.WriteLine(UsdToRUB + " евро это " + (EuroToRUB * currencyAmount) + " рублей\n");
 
         }
 
@@ -96,11 +89,12 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Задание 1\n");
-            Console.WriteLine("Среднее арифметическое равно " + Average(3, 6) + "\n\n");
+            
+            Console.WriteLine("Среднее арифметическое равно " + Average(firstValue, secondValue) + "\n\n");
 
             Console.WriteLine("Задание 2\n");
 
-            //SumMulty(nums);
+            //SumMulty(values);
 
             Console.WriteLine("Задание 3\n");
 
