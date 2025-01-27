@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_1", "ConsoleApp_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_1_SimpleCode", "DZ_1_SimpleCode\DZ_1_SimpleCode.csproj", "{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_2+3_SimpleCode", "DZ_2+3_SimpleCode\DZ_2+3_SimpleCode.csproj", "{16CC64F9-5701-4981-AEAD-8DA397E4DACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

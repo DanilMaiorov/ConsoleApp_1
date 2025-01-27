@@ -15,7 +15,7 @@
 
             Console.WriteLine("Введи второе число");
 
-            a = double.Parse(Console.ReadLine());
+            b = double.Parse(Console.ReadLine());
 
             double average = (a + b) / 2;
 
