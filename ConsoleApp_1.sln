@@ -5,9 +5,11 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_1", "ConsoleApp_1\ConsoleApp_1.csproj", "{A35C609D-DE74-4DE0-BE12-41D63421E09B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_1_SimpleCode", "DZ_1_SimpleCode\DZ_1_SimpleCode.csproj", "{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_1_SimpleCode", "DZ_1_SimpleCode\DZ_1_SimpleCode.csproj", "{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_2+3_SimpleCode", "DZ_2+3_SimpleCode\DZ_2+3_SimpleCode.csproj", "{16CC64F9-5701-4981-AEAD-8DA397E4DACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_2+3_SimpleCode", "DZ_2+3_SimpleCode\DZ_2+3_SimpleCode.csproj", "{16CC64F9-5701-4981-AEAD-8DA397E4DACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_4+5_SimpleCode", "DZ_4+5_SimpleCode\DZ_4+5_SimpleCode.csproj", "{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16CC64F9-5701-4981-AEAD-8DA397E4DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

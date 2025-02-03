@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ConsoleApp_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|solutionrelative:dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16CC64F9-5701-4981-AEAD-8DA397E4DACC}|DZ_2\u002B3_SimpleCode\\DZ_2\u002B3_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_2\u002B3_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC64F9-5701-4981-AEAD-8DA397E4DACC}|DZ_2\u002B3_SimpleCode\\DZ_2\u002B3_SimpleCode.csproj|solutionrelative:dz_2\u002B3_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_4\u002B5_SimpleCode\\Program.cs",
+              "RelativeDocumentMoniker": "DZ_4\u002B5_SimpleCode\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_4\u002B5_SimpleCode\\Program.cs",
+              "RelativeToolTip": "DZ_4\u002B5_SimpleCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:51:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_1_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_1_SimpleCode\\Program.cs",
@@ -34,25 +51,24 @@
               "RelativeToolTip": "DZ_1_SimpleCode\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAA0wF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:24:58.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T18:24:58.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_2\u002B3_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_2\u002B3_SimpleCode\\Program.cs",
-              "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_2\u002B3_SimpleCode\\Program.cs*",
-              "RelativeToolTip": "DZ_2\u002B3_SimpleCode\\Program.cs*",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAgwMUAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_2\u002B3_SimpleCode\\Program.cs",
+              "RelativeToolTip": "DZ_2\u002B3_SimpleCode\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAgwLYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T16:58:38.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp_1\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "ConsoleApp_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:16:50.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T18:16:50.534Z"
             }
           ]
         }
