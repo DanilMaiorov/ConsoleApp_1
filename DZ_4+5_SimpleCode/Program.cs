@@ -1,55 +1,75 @@
-﻿namespace DZ_4_5_SimpleCode
+﻿using System;
+using System.Data.SqlTypes;
+
+namespace DZ_4_5_SimpleCode
 {
     internal class Program
     {
+
+        static bool isNumber = false;
+
+        static int tryCounter = 5;  
+
+        static int currentValue;
+
+        static int limit;
+
+        static bool inputNumber(ref bool itIsNumber, string str, ref int value, ref int counter)
+        {
+            string inputNumber = Console.ReadLine();
+            bool success = int.TryParse(inputNumber, out int result); 
+
+            if (success)
+            {
+                value = result;
+                itIsNumber = false;
+                Console.WriteLine($"{value} - {str} число");
+                counter = 5;
+            }
+            else
+            {
+                itIsNumber = true;
+                counter--;
+                Console.WriteLine($"Осталось попыток на ввод числа: {tryCounter} ");
+
+                if (counter == 0)
+                {
+                    Console.WriteLine($"Попытки кончились, выбирается случайное число");
+                    itIsNumber = false;
+                    Random random = new Random();
+                    value = random.Next(1, 100);
+                    Console.WriteLine($"{value} - {str} случайное число"); 
+                    counter = 5;
+                }
+            }
+            return itIsNumber;
+        }
+
         static void Main(string[] args)
         {
-            int currentValue;
-            int limit;
 
             int evenResult = 0;
             int oddResult = 0;
 
-            Random random = new Random();
+            Console.WriteLine($"Всего {tryCounter} попыток на ввод первого числа. Если попытки кончатся, то число будет выбрано случайно");
+            while (inputNumber(ref isNumber, "первое", ref currentValue, ref tryCounter));
 
-            try
+            Console.WriteLine($"Всего {tryCounter} попыток на ввод второго числа. Если попытки кончатся, то число будет выбрано случайно");
+            while (inputNumber(ref isNumber, "второе", ref limit, ref tryCounter));
+
+            if (currentValue > limit)
             {
-                Console.WriteLine("Введите первое число диапазона");
-                currentValue = int.Parse(Console.ReadLine());
-                Console.WriteLine(currentValue + " первое введённое число");
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("Введено некорректное число, будет выбрано случайное");
-                currentValue = random.Next(1, 100);
-                Console.WriteLine(currentValue + " первое случайное число");
+                Console.WriteLine("Начальное число больше конечного, придётся поменять местами числа");
+                Console.WriteLine(currentValue + " изначально первое число диапазона");
+                Console.WriteLine(limit + " изначально второе число диапазона");
+                int temp = currentValue;
+                currentValue = limit;
+                limit = temp;
             }
 
-            try
-            {
-                Console.WriteLine("Введите второе число диапазона");
-                limit = int.Parse(Console.ReadLine());
+            Console.WriteLine(currentValue + " итоговое первое число диапазона");
 
-                while (currentValue > limit)
-                {
-                    Console.WriteLine("Второе введённое число меньше первого, введите заново");
-                    limit = int.Parse(Console.ReadLine());
-                }
-                Console.WriteLine(limit + " второе введённое число");
-
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("Введено некорректное число, будет выбрано случайное");
-                limit = random.Next(1, 100);
-
-                while (currentValue > limit)
-                {
-                    Console.WriteLine("второе случайное число меньше первого, повторяем рандом");
-                    limit = random.Next(1, 100);
-                }
-                Console.WriteLine(currentValue + " второе случайное число");
-            }
+            Console.WriteLine(limit + " итоговое второе число диапазона");
 
             while (limit >= currentValue)
             {
