@@ -81,8 +81,8 @@ namespace DZ_4_5_SimpleCode
                 currentValue++;
             }
 
-            Console.WriteLine($"\n{evenResult} это итоговый evenResult\n");
-            Console.WriteLine($"{oddResult} это итоговый evenResult\n");
+            Console.WriteLine($"\n{evenResult} это итоговая сумма четных чисел\n");
+            Console.WriteLine($"{oddResult} это итоговая сумма нечетных чисел\n");
         }
     }
 }
