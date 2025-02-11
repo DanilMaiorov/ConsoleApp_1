@@ -32,36 +32,32 @@
                 Console.Write($" {item} ");
             }
             Console.WriteLine();
-
             //Найти сумму четных чисел в массиве
+;
+            SumArray(firstArray);
 
             //Сортировка пузырьком 
 
+            BubbleSort(firstArray);
+
             //Заполнить массив с клавиатуры не зная сколько массив длиной
             int[] unknownArray = {};
-            //bool isNumber = true;
-            bool isNumber = false;
+            bool isNumber = true;
 
             while (isNumber)
             {
                 Console.WriteLine();
                 bool inputNumber = int.TryParse(Console.ReadLine(), out var result);
-
                 if (inputNumber)
                 {
                     int[] newArray = new int[unknownArray.Length + 1];
-
                     newArray[unknownArray.Length] = result;
-
                     for (int i = 0; i < unknownArray.Length; i++)
                     {
                         newArray[i] = unknownArray[i];
                     }
-
                     unknownArray = newArray;
-
                     Console.WriteLine("Итерации заполнения массива");
-
                     foreach (var item in unknownArray)
                         Console.Write($" {item} ");
                 }
@@ -69,9 +65,50 @@
                     isNumber = false;
             }
 
-            Console.WriteLine("По итогу получился такой массив\n");
+            Console.WriteLine("\nПо итогу получился такой массив\n");
             foreach (var item in unknownArray)
                 Console.Write($" {item} ");
+
+            BubbleSort(unknownArray);
+            Console.WriteLine();
+            SumArray(unknownArray);
+
+
+            static void SumArray(int[] array)
+            {
+                int result = 0;
+
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] % 2 == 0)
+                        result += array[i];
+                }
+
+                Console.WriteLine($"Сумма четных чисел {result}");
+            }
+
+            static void BubbleSort(int[] array)
+            {
+                for (int i = 0; i < array.Length - 1; i++)
+                {
+                    for (int j = 0; j < array.Length - 1 - i; j++)
+                    {
+                        if (array[j] > array[j + 1])
+                        {
+                            int temp = array[j];
+
+                            array[j] = array[j + 1];
+
+                            array[j + 1] = temp;
+                        }
+                    }
+                }
+                Console.WriteLine("\nОтсортировано пузырьком\n");
+                foreach (var item in array)
+                {
+                    Console.Write($" {item} ");
+                }
+            }
 
             //int[] myArray = new int[1];
 
