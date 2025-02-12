@@ -40,6 +40,8 @@
 
             BubbleSort(firstArray);
 
+
+
             //Заполнить массив с клавиатуры не зная сколько массив длиной
             int[] unknownArray = {};
             bool isNumber = true;
@@ -72,6 +74,14 @@
             BubbleSort(unknownArray);
             Console.WriteLine();
             SumArray(unknownArray);
+
+            //Поиск максимального элемента в массиве
+
+            MaxValue(unknownArray);
+
+            //Поиск минимального элемента в массиве
+
+            MinValue(unknownArray);
 
 
             static void SumArray(int[] array)
@@ -108,7 +118,39 @@
                 {
                     Console.Write($" {item} ");
                 }
+                Console.WriteLine();
             }
+
+
+            static void MaxValue(int[] array)
+            {
+                int maxValue = array[0];
+                for (int i = 1; i < array.Length; i++)
+                {
+                    if (maxValue < array[i])
+                    {
+                        maxValue = array[i];
+                    }
+                }
+                Console.WriteLine("Максимальное значение равно ");
+                Console.WriteLine(maxValue);
+
+            }
+
+            static void MinValue(int[] array)
+            {
+                int minValue = array[0];
+                for (int i = 1; i < array.Length; i++)
+                {
+                    if (minValue > array[i])
+                    {
+                        minValue = array[i];
+                    }
+                }
+                Console.WriteLine("Минимальное значение равно ");
+                Console.WriteLine(minValue);
+            }
+
 
             //int[] myArray = new int[1];
 

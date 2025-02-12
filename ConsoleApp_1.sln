@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_4+5_SimpleCode", "DZ_4+5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_6_SimpleCode", "DZ_6_SimpleCode\DZ_6_SimpleCode.csproj", "{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_7_SimpleCode", "DZ_7_SimpleCode\DZ_7_SimpleCode.csproj", "{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_7_SimpleCode", "DZ_7_SimpleCode\DZ_7_SimpleCode.csproj", "{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_8_SimpleCode", "DZ_8_SimpleCode\DZ_8_SimpleCode.csproj", "{17976902-3F45-4CF8-95B5-E08BD97B1B77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17976902-3F45-4CF8-95B5-E08BD97B1B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17976902-3F45-4CF8-95B5-E08BD97B1B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17976902-3F45-4CF8-95B5-E08BD97B1B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17976902-3F45-4CF8-95B5-E08BD97B1B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
