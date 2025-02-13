@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 
 namespace DZ_8_SimpleCode
 {
@@ -63,6 +64,68 @@ namespace DZ_8_SimpleCode
 
             Console.WriteLine("Сумма ArrayList");
             Console.WriteLine(result);
+
+
+            //Упаковка и распаковка в коллекции - 2
+
+            ArrayList boxing_5 = new ArrayList();
+
+            int result_5 = 0;
+
+            for (int i = 1; i <= 10; i++)
+            {
+                boxing_5.Add(i);
+            }
+
+            foreach (object item in boxing_5)
+            {
+                Console.WriteLine($"Распакованные числа - {(int)item}");
+                result += (int)item;
+            }
+
+            Console.WriteLine($"Сумма распакованных чисел - {result}");
+
+            //Упаковка и распаковка с nullable - типами - 2
+
+            Random rand = new Random();
+            
+
+            int?[] nullableArr = new int?[rand.Next(1, 30)];
+
+            for (int i = 0; i < nullableArr.Length; i++)
+            {
+                if (i % 4 == 0)
+                { 
+                    int? nullableInt = null;
+                    nullableArr[i] = nullableInt;
+                } 
+                else
+                {
+                    nullableArr[i] = i;
+                }
+            }
+
+            object[] objectArr = new object[nullableArr.Length];
+
+            for (int i = 1; i < objectArr.Length; i++)
+            {
+                objectArr[i] = nullableArr[i];
+            }
+
+            Console.WriteLine("nulleable uboxing\n");
+
+            for (int i = 0; i < objectArr.Length; i++)
+            {
+                int? unboxedInt = (int?)objectArr[i];
+
+                if (objectArr[i] == null)
+                {
+                    unboxedInt = 0;
+                }
+                Console.WriteLine(unboxedInt);
+
+            }
+
         }
     }
 }
