@@ -1,4 +1,7 @@
-﻿namespace DZ_7_SimpleCode
+﻿using System;
+using System.Threading.Channels;
+
+namespace DZ_7_SimpleCode
 {
     internal class Program
     {
@@ -40,7 +43,14 @@
 
             BubbleSort(firstArray);
 
+            //Поиск элемента в массиве
 
+            TargetSearch(firstArray, 25);
+
+            //Поиск индекса элемента в массиве
+            int searchedIndex = IndexSearch(firstArray, 25) == - 1 ? -1 : IndexSearch(firstArray, 25);
+
+            Console.WriteLine(searchedIndex);
 
             //Заполнить массив с клавиатуры не зная сколько массив длиной
             int[] unknownArray = {};
@@ -121,7 +131,6 @@
                 Console.WriteLine();
             }
 
-
             static void MaxValue(int[] array)
             {
                 int maxValue = array[0];
@@ -134,7 +143,6 @@
                 }
                 Console.WriteLine("Максимальное значение равно ");
                 Console.WriteLine(maxValue);
-
             }
 
             static void MinValue(int[] array)
@@ -151,6 +159,39 @@
                 Console.WriteLine(minValue);
             }
 
+            static void TargetSearch(int[] array, int target)
+            {
+                int targetNumber = 0;
+                string answer;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] == target)
+                    {
+                        targetNumber = array[i];
+                        break;
+                    }
+                }
+                if (targetNumber != 0)
+                    Console.WriteLine("Есть совпадение");
+                else
+                    Console.WriteLine("Данного числа в массиве нет");
+            }
+
+            static int IndexSearch(int[] array, int target)
+            {
+                int targetNumber;
+                int index = -1;
+                string answer;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] == target)
+                    {
+                        index = i;
+                        break;
+                    }
+                }
+                return index;
+            }
 
             //int[] myArray = new int[1];
 

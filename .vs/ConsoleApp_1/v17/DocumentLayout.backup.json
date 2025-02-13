@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{17976902-3F45-4CF8-95B5-E08BD97B1B77}|DZ_8_SimpleCode\\DZ_8_SimpleCode.csproj|solutionrelative:dz_8_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_7_simplecode\\dz_7_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|solutionrelative:dz_7_simplecode\\dz_7_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_7_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|solutionrelative:dz_7_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_7_simplecode\\dz_7_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84B9E4FF-6894-4D3D-9C71-CDE037FD3FDD}|DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj|solutionrelative:dz_7_simplecode\\dz_7_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "DZ_8_SimpleCode\\Program.cs",
               "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_8_SimpleCode\\Program.cs*",
               "RelativeToolTip": "DZ_8_SimpleCode\\Program.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAgwG0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAmwIcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T18:28:44.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DZ_7_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_7_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_7_SimpleCode\\Program.cs",
               "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_7_SimpleCode\\Program.cs",
               "RelativeToolTip": "DZ_7_SimpleCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwKEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T16:44:50.021Z",
               "EditorCaption": ""

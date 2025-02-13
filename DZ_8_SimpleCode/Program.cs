@@ -123,9 +123,7 @@ namespace DZ_8_SimpleCode
                     unboxedInt = 0;
                 }
                 Console.WriteLine(unboxedInt);
-
             }
-
         }
     }
 }
