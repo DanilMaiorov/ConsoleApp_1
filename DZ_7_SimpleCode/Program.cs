@@ -200,14 +200,10 @@ namespace DZ_7_SimpleCode
             for (int i = 0; i < arr_6.Length; i++)
             {
                 if (arr_6[i] % 2 == 0)
-                {
-                    if (minValue > arr_6[i])
-                    {
-                        minValue = arr_6[i];
-                    }
-                }
-
-
+                    continue;
+                if (minValue < arr_6[i])
+                    continue;
+                 minValue = arr_6[i];
             }
             Console.WriteLine("минимальное нечетное");
             Console.WriteLine(minValue);
