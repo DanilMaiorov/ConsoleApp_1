@@ -5,9 +5,9 @@ namespace DZ_7_SimpleCode
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            ////Заполнить массив с клавиатуры 
+            ////Заполнить массив с клавиатуры
             //int[] firstArray = new int[5];
             //Console.WriteLine("Введите 5 чисел\n");
             //for (int i = 0; i < firstArray.Length; i++)
@@ -39,7 +39,7 @@ namespace DZ_7_SimpleCode
             //;
             //SumArray(firstArray);
 
-            ////Сортировка пузырьком 
+            ////Сортировка пузырьком
 
             //BubbleSort(firstArray);
 
@@ -47,166 +47,221 @@ namespace DZ_7_SimpleCode
 
             //TargetSearch(firstArray, 25);
 
-            ////Поиск индекса элемента в массиве
-            //int searchedIndex = IndexSearch(firstArray, 25) == -1 ? -1 : IndexSearch(firstArray, 25);
 
-            //Console.WriteLine(searchedIndex);
+            //Заполнить массив с клавиатуры не зная сколько массив длиной
+            int[] unknownArray = { };
+              
+            while (inputArray(ref unknownArray));
 
-            ////Заполнить массив с клавиатуры не зная сколько массив длиной
-            //int[] unknownArray = { };
-            //bool isNumber = true;
+            Console.WriteLine("\nПо итогу получился такой массив\n");
+            foreach (var item in unknownArray)
+                Console.Write($" {item} ");
 
-            //while (isNumber)
-            //{
-            //    Console.WriteLine();
-            //    bool inputNumber = int.TryParse(Console.ReadLine(), out var result);
-            //    if (inputNumber)
-            //    {
-            //        int[] newArray = new int[unknownArray.Length + 1];
-            //        newArray[unknownArray.Length] = result;
-            //        for (int i = 0; i < unknownArray.Length; i++)
-            //        {
-            //            newArray[i] = unknownArray[i];
-            //        }
-            //        unknownArray = newArray;
-            //        Console.WriteLine("Итерации заполнения массива");
-            //        foreach (var item in unknownArray)
-            //            Console.Write($" {item} ");
-            //    }
-            //    else
-            //        isNumber = false;
-            //}
+            BubbleSort(unknownArray);
+            Console.WriteLine();
+            SumArray(unknownArray);
 
-            //Console.WriteLine("\nПо итогу получился такой массив\n");
-            //foreach (var item in unknownArray)
-            //    Console.Write($" {item} ");
+            //Поиск максимального элемента в массиве
 
-            //BubbleSort(unknownArray);
-            //Console.WriteLine();
-            //SumArray(unknownArray);
+            MaxValue(unknownArray);
 
-            ////Поиск максимального элемента в массиве
+            //Поиск минимального элемента в массиве
 
-            //MaxValue(unknownArray);
+            MinValue(unknownArray);
 
-            ////Поиск минимального элемента в массиве
+            //Поиск минимального нечетного элемента в массиве
+            MinOdd(unknownArray);
 
-            //MinValue(unknownArray);
+            //Поиск индекса элемента в массиве
+            int searchedIndex = IndexSearch(unknownArray, 25) == -1 ? -1 : IndexSearch(unknownArray, 25);
 
+            Console.WriteLine(searchedIndex);
 
-            //static void SumArray(int[] array)
-            //{
-            //    int result = 0;
+            //Заполнить двумерный массив рандомными числами
 
-            //    for (int i = 0; i < array.Length; i++)
-            //    {
-            //        if (array[i] % 2 == 0)
-            //            result += array[i];
-            //    }
+            Random random = new Random();
+            int[,] arr_7 = new int[random.Next(5, 10), random.Next(5, 10)];
 
-            //    Console.WriteLine($"Сумма четных чисел {result}");
-            //}
+            RandomArr(arr_7, random);
 
-            //static void BubbleSort(int[] array)
-            //{
-            //    for (int i = 0; i < array.Length - 1; i++)
-            //    {
-            //        for (int j = 0; j < array.Length - 1 - i; j++)
-            //        {
-            //            if (array[j] > array[j + 1])
-            //            {
-            //                int temp = array[j];
+            //вывести их в консоль
 
-            //                array[j] = array[j + 1];
+            ConsoleRender(arr_7);
 
-            //                array[j + 1] = temp;
-            //            }
-            //        }
-            //    }
-            //    Console.WriteLine("\nОтсортировано пузырьком\n");
-            //    foreach (var item in array)
-            //    {
-            //        Console.Write($" {item} ");
-            //    }
-            //    Console.WriteLine();
-            //}
+            Console.WriteLine();
 
-            //static void MaxValue(int[] array)
-            //{
-            //    int maxValue = array[0];
-            //    for (int i = 1; i < array.Length; i++)
-            //    {
-            //        if (maxValue < array[i])
-            //        {
-            //            maxValue = array[i];
-            //        }
-            //    }
-            //    Console.WriteLine("Максимальное значение равно ");
-            //    Console.WriteLine(maxValue);
-            //}
-
-            //static void MinValue(int[] array)
-            //{
-            //    int minValue = array[0];
-            //    for (int i = 1; i < array.Length; i++)
-            //    {
-            //        if (minValue > array[i])
-            //        {
-            //            minValue = array[i];
-            //        }
-            //    }
-            //    Console.WriteLine("Минимальное значение равно ");
-            //    Console.WriteLine(minValue);
-            //}
-
-            //static void TargetSearch(int[] array, int target)
-            //{
-            //    int targetNumber = 0;
-            //    string answer;
-            //    for (int i = 0; i < array.Length; i++)
-            //    {
-            //        if (array[i] == target)
-            //        {
-            //            targetNumber = array[i];
-            //            break;
-            //        }
-            //    }
-            //    if (targetNumber != 0)
-            //        Console.WriteLine("Есть совпадение");
-            //    else
-            //        Console.WriteLine("Данного числа в массиве нет");
-            //}
-
-            //static int IndexSearch(int[] array, int target)
-            //{
-            //    int targetNumber;
-            //    int index = -1;
-            //    string answer;
-            //    for (int i = 0; i < array.Length; i++)
-            //    {
-            //        if (array[i] == target)
-            //        {
-            //            index = i;
-            //            break;
-            //        }
-            //    }
-            //    return index;
-            //}
-
-            int[] arr_6 = new int[] { 121, 23, 36, 453, 5, 652, 72, 83 };
-
-            int minValue = arr_6[0];
-
-            for (int i = 0; i < arr_6.Length; i++)
+            static bool inputArray(ref int[] array)
             {
-                if (arr_6[i] % 2 == 0)
-                    continue;
-                if (minValue < arr_6[i])
-                    continue;
-                 minValue = arr_6[i];
+                Console.WriteLine();
+                bool inputNumber = int.TryParse(Console.ReadLine(), out var result);
+                if (!inputNumber)
+                    return false;
+
+                int[] newArray = new int[array.Length + 1];
+                newArray[array.Length] = result;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    newArray[i] = array[i];
+                }
+                array = newArray;
+                Console.WriteLine("Итерации заполнения массива");
+                foreach (var item in array)
+                    Console.Write($" {item} ");
+
+                return true;
             }
-            Console.WriteLine("минимальное нечетное");
-            Console.WriteLine(minValue);
+
+            static void SumArray(int[] array)
+            {
+                int result = 0;
+
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] % 2 == 0)
+                        result += array[i];
+                }
+
+                Console.WriteLine($"Сумма четных чисел {result}");
+            }
+
+            static void BubbleSort(int[] array)
+            {
+                for (int i = 0; i < array.Length - 1; i++)
+                {
+                    for (int j = 0; j < array.Length - 1 - i; j++)
+                    {
+                        if (array[j] > array[j + 1])
+                        {
+                            int temp = array[j];
+
+                            array[j] = array[j + 1];
+
+                            array[j + 1] = temp;
+                        }
+                    }
+                }
+                Console.WriteLine("\nОтсортировано пузырьком\n");
+                foreach (var item in array)
+                {
+                    Console.Write($" {item} ");
+                }
+                Console.WriteLine();
+            }
+
+            static void MaxValue(int[] array)
+            {
+                int maxValue = array[0];
+                for (int i = 1; i < array.Length; i++)
+                {
+                    if (maxValue < array[i])
+                    {
+                        maxValue = array[i];
+                    }
+                }
+                Console.WriteLine("Максимальное значение равно ");
+                Console.WriteLine(maxValue);
+            }
+
+            static void MinValue(int[] array)
+            {
+                int minValue = array[0];
+                for (int i = 1; i < array.Length; i++)
+                {
+                    if (minValue > array[i])
+                    {
+                        minValue = array[i];
+                    }
+                }
+                Console.WriteLine("Минимальное значение равно ");
+                Console.WriteLine(minValue);
+            }
+
+            static void TargetSearch(int[] array, int target)
+            {
+                int targetNumber = 0;
+                string answer;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] == target)
+                    {
+                        targetNumber = array[i];
+                        break;
+                    }
+                }
+                if (targetNumber != 0)
+                    Console.WriteLine("Есть совпадение");
+                else
+                    Console.WriteLine("Данного числа в массиве нет");
+            }
+
+            static int IndexSearch(int[] array, int target)
+            {
+                int targetNumber;
+                int index = -1;
+                string answer;
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] == target)
+                    {
+                        index = i;
+                        break;
+                    }
+                }
+                return index;
+            }
+
+            static void MinOdd(int[] array)
+            {
+                int minValue = array[0];
+
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] % 2 == 0)
+                        continue;
+                    if (minValue < array[i])
+                        continue;
+                    minValue = array[i];
+                }
+                Console.WriteLine($"Минимальное нечетное равно {minValue}");
+                ;
+            };
+
+            static void RandomArr(int[,] array, Random random)
+            {
+                for (int i = 0; i < array.GetLength(0); i++)
+                {
+                    for (int j = 0; j < array.GetLength(1); j++)
+                    {
+                        array[i, j] = random.Next(1, 99);
+                    }
+                }
+            }
+
+            static void ConsoleRender(int[,] array)
+            {
+                Console.WriteLine("[ ");
+                for (int i = 0; i < array.GetLength(0); i++)
+                {
+                    Console.Write("\t[ ");
+                    for (int j = 0; j < array.GetLength(1); j++)
+                    {
+                        if (j != array.GetLength(1) - 1)
+                        {
+                            Console.Write($"{array[i, j]}, ");
+                            continue;
+                        }
+                        Console.Write($"{array[i, j]}");
+                    }
+                    Console.Write("]");
+                    Console.WriteLine();
+                    Console.WriteLine();
+                }
+                Console.Write("[ ");
+            }
+
+
+
+
 
 
 
