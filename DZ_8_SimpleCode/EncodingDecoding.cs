@@ -25,7 +25,7 @@ namespace DZ_8_SimpleCode
             {
                 Console.Write($" {item} ");
             }
-            Console.WriteLine();
+            Console.WriteLine("\a");
 
             return encodedBytes;
         }
@@ -133,5 +133,6 @@ namespace DZ_8_SimpleCode
 
             Console.Write("Hex-код: " + hexCode);
         }
+        
     }
 }
