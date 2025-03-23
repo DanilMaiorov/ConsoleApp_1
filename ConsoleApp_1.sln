@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_7_SimpleCode", "DZ_7_Sim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_8_SimpleCode", "DZ_8_SimpleCode\DZ_8_SimpleCode.csproj", "{17976902-3F45-4CF8-95B5-E08BD97B1B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_9_SimpleCode", "DZ_9_SimpleCode\DZ_9_SimpleCode.csproj", "{EB9EDE90-8944-453A-A074-F823760BFA6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DZ_9_SimpleCode", "DZ_9_SimpleCode\DZ_9_SimpleCode.csproj", "{EB9EDE90-8944-453A-A074-F823760BFA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ_10_SimpleCode", "DZ_10_SimpleCode\DZ_10_SimpleCode.csproj", "{FACF7D1E-B006-49D3-914C-09C03D090D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EB9EDE90-8944-453A-A074-F823760BFA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB9EDE90-8944-453A-A074-F823760BFA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB9EDE90-8944-453A-A074-F823760BFA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACF7D1E-B006-49D3-914C-09C03D090D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACF7D1E-B006-49D3-914C-09C03D090D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACF7D1E-B006-49D3-914C-09C03D090D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACF7D1E-B006-49D3-914C-09C03D090D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
