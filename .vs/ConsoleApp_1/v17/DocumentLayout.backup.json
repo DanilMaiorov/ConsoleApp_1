@@ -3,16 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\ConsoleApp_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|c:\\users\\consoleapp_1\\stackcollection2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|solutionrelative:stackcollection2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|c:\\users\\consoleapp_1\\stackcollection2\\stacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|solutionrelative:stackcollection2\\stacknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|c:\\users\\consoleapp_1\\stackcollection2\\stack - \u043A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5057C099-36D9-4239-B786-3A3990628551}|StackCollection2\\StackCollection2.csproj|solutionrelative:stackcollection2\\stack - \u043A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|c:\\users\\consoleapp_1\\stackcollection\\stackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|solutionrelative:stackcollection\\stackextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|c:\\users\\consoleapp_1\\stackcollection\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|solutionrelative:stackcollection\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|c:\\users\\consoleapp_1\\stackcollection\\emptymergestackexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|solutionrelative:stackcollection\\emptymergestackexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|c:\\users\\consoleapp_1\\stackcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|solutionrelative:stackcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|c:\\users\\consoleapp_1\\stackcollection\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8C3F0C-E7FC-4BAC-88CF-8A245278FA8A}|StackCollection\\StackCollection.csproj|solutionrelative:stackcollection\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|c:\\users\\consoleapp_1\\consoleapp_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|solutionrelative:consoleapp_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|c:\\users\\consoleapp_1\\consoleapp_1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|solutionrelative:consoleapp_1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|c:\\users\\consoleapp_1\\consoleapp_1\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|solutionrelative:consoleapp_1\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_1_simplecode\\dz_1_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|solutionrelative:dz_1_simplecode\\dz_1_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\iwalking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\iwalking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\iclothset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\iclothset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\ak47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\ak47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\hitman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\hitman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\m16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\m16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\itool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\itool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\sportsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\sportsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|c:\\users\\consoleapp_1\\hitman\\tuxedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73728F46-6B79-4413-8F47-E49325A8F57A}|Hitman\\Hitman.csproj|solutionrelative:hitman\\tuxedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\iflying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\iflying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\iswiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\iswiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|c:\\users\\consoleapp_1\\abstract\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21EA0B-A98C-4DBD-8A4E-6CE99DEEC6B8}|Abstract\\Abstract.csproj|solutionrelative:abstract\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}|DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_6_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}|DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj|solutionrelative:dz_6_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|solutionrelative:dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_1_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|solutionrelative:dz_1_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|c:\\users\\consoleapp_1\\consoleapp_1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35C609D-DE74-4DE0-BE12-41D63421E09B}|ConsoleApp_1\\ConsoleApp_1.csproj|solutionrelative:consoleapp_1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB9EDE90-8944-453A-A074-F823760BFA6B}|DZ_9_SimpleCode\\DZ_9_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_9_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FACF7D1E-B006-49D3-914C-09C03D090D96}|DZ_10_SimpleCode\\DZ_10_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_10_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FACF7D1E-B006-49D3-914C-09C03D090D96}|DZ_10_SimpleCode\\DZ_10_SimpleCode.csproj|solutionrelative:dz_10_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_1_simplecode\\dz_1_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|solutionrelative:dz_1_simplecode\\dz_1_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB9EDE90-8944-453A-A074-F823760BFA6B}|DZ_9_SimpleCode\\DZ_9_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_9_simplecode\\dz_9_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -55,20 +159,8 @@
       "RelativeMoniker": "D:0:0:{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}|DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj|solutionrelative:dz_6_simplecode\\dz_6_simplecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFA17FF-0966-46BA-9FAD-BF6D267B3CE6}|DZ_4\u002B5_SimpleCode\\DZ_4\u002B5_SimpleCode.csproj|solutionrelative:dz_4\u002B5_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}|DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_6_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA32F357-C296-4948-B78D-D4ECBD5C0A5A}|DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj|solutionrelative:dz_6_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16CC64F9-5701-4981-AEAD-8DA397E4DACC}|DZ_2\u002B3_SimpleCode\\DZ_2\u002B3_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_2\u002B3_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16CC64F9-5701-4981-AEAD-8DA397E4DACC}|DZ_2\u002B3_SimpleCode\\DZ_2\u002B3_SimpleCode.csproj|solutionrelative:dz_2\u002B3_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|c:\\users\\consoleapp_1\\dz_1_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0F4370-5DB9-4E4A-AF0A-421A4DB6C712}|DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj|solutionrelative:dz_1_simplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1154,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +190,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackNode.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection2\\StackNode.cs",
+              "RelativeDocumentMoniker": "StackCollection2\\StackNode.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection2\\StackNode.cs*",
+              "RelativeToolTip": "StackCollection2\\StackNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:35:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Stack - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection2\\Stack - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "RelativeDocumentMoniker": "StackCollection2\\Stack - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection2\\Stack - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs*",
+              "RelativeToolTip": "StackCollection2\\Stack - \u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:22:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection2\\Program.cs",
+              "RelativeDocumentMoniker": "StackCollection2\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection2\\Program.cs*",
+              "RelativeToolTip": "StackCollection2\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:14:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\State.cs",
               "RelativeDocumentMoniker": "ConsoleApp_1\\State.cs",
               "ToolTip": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\State.cs",
               "RelativeToolTip": "ConsoleApp_1\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T17:55:17.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_1\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_1\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:16:50.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection\\Stack.cs",
+              "RelativeDocumentMoniker": "StackCollection\\Stack.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection\\Stack.cs",
+              "RelativeToolTip": "StackCollection\\Stack.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIA8wFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:28:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection\\Program.cs",
+              "RelativeDocumentMoniker": "StackCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection\\Program.cs",
+              "RelativeToolTip": "StackCollection\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:27:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AK47.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\AK47.cs",
+              "RelativeDocumentMoniker": "Hitman\\AK47.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\AK47.cs",
+              "RelativeToolTip": "Hitman\\AK47.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:49:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "M16.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\M16.cs",
+              "RelativeDocumentMoniker": "Hitman\\M16.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\M16.cs",
+              "RelativeToolTip": "Hitman\\M16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:51:40.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection\\Exceptions.cs",
+              "RelativeDocumentMoniker": "StackCollection\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection\\Exceptions.cs",
+              "RelativeToolTip": "StackCollection\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:20:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\Program.cs",
+              "RelativeDocumentMoniker": "Hitman\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\Program.cs",
+              "RelativeToolTip": "Hitman\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:41:49.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClothSet.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\IClothSet.cs",
+              "RelativeDocumentMoniker": "Hitman\\IClothSet.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\IClothSet.cs",
+              "RelativeToolTip": "Hitman\\IClothSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:54:55.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection\\StackExtensions.cs",
+              "RelativeDocumentMoniker": "StackCollection\\StackExtensions.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection\\StackExtensions.cs",
+              "RelativeToolTip": "StackCollection\\StackExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:00:48.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "EmptyMergeStackException.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\StackCollection\\EmptyMergeStackException.cs",
+              "RelativeDocumentMoniker": "StackCollection\\EmptyMergeStackException.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\StackCollection\\EmptyMergeStackException.cs",
+              "RelativeToolTip": "StackCollection\\EmptyMergeStackException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:29:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DZ_1_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj",
@@ -119,37 +380,168 @@
               "RelativeToolTip": "DZ_1_SimpleCode\\DZ_1_SimpleCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T16:12:02.977Z"
+              "WhenOpened": "2025-03-20T16:12:02.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\Program.cs",
+              "RelativeToolTip": "Abstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:01:05.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\Animal.cs",
+              "RelativeDocumentMoniker": "Abstract\\Animal.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\Animal.cs",
+              "RelativeToolTip": "Abstract\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:01:35.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWalking.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\IWalking.cs",
+              "RelativeDocumentMoniker": "Abstract\\IWalking.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\IWalking.cs",
+              "RelativeToolTip": "Abstract\\IWalking.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:05:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstract\\Cat.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\Cat.cs",
+              "RelativeToolTip": "Abstract\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:09:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hitman.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\Hitman.cs",
+              "RelativeDocumentMoniker": "Hitman\\Hitman.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\Hitman.cs",
+              "RelativeToolTip": "Hitman\\Hitman.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wDQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:42:05.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITool.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\ITool.cs",
+              "RelativeDocumentMoniker": "Hitman\\ITool.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\ITool.cs",
+              "RelativeToolTip": "Hitman\\ITool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:44:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SportSuit.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\SportSuit.cs",
+              "RelativeDocumentMoniker": "Hitman\\SportSuit.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\SportSuit.cs",
+              "RelativeToolTip": "Hitman\\SportSuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:57:58.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tuxedo.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Hitman\\Tuxedo.cs",
+              "RelativeDocumentMoniker": "Hitman\\Tuxedo.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Hitman\\Tuxedo.cs",
+              "RelativeToolTip": "Hitman\\Tuxedo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:57:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IFlying.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\IFlying.cs",
+              "RelativeDocumentMoniker": "Abstract\\IFlying.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\IFlying.cs",
+              "RelativeToolTip": "Abstract\\IFlying.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:05:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISwiming.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\ISwiming.cs",
+              "RelativeDocumentMoniker": "Abstract\\ISwiming.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\ISwiming.cs",
+              "RelativeToolTip": "Abstract\\ISwiming.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:06:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\Abstract\\Duck.cs",
+              "RelativeDocumentMoniker": "Abstract\\Duck.cs",
+              "ToolTip": "C:\\Users\\ConsoleApp_1\\Abstract\\Duck.cs",
+              "RelativeToolTip": "Abstract\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:13:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Extensions.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Extensions.cs",
               "RelativeDocumentMoniker": "ConsoleApp_1\\Extensions.cs",
               "ToolTip": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Extensions.cs",
               "RelativeToolTip": "ConsoleApp_1\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAABQwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T16:01:34.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp_1\\Program.cs",
-              "ToolTip": "C:\\Users\\ConsoleApp_1\\ConsoleApp_1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp_1\\Program.cs*",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAwwMAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:16:50.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 34,
               "Title": "DZ_7_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj",
@@ -157,11 +549,12 @@
               "RelativeToolTip": "DZ_7_SimpleCode\\DZ_7_SimpleCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-12T18:17:14.198Z"
+              "WhenOpened": "2025-02-12T18:17:14.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_6_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_6_SimpleCode\\Program.cs",
@@ -174,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_4\u002B5_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_4\u002B5_SimpleCode\\Program.cs",
@@ -182,23 +575,25 @@
               "RelativeToolTip": "DZ_4\u002B5_SimpleCode\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwFQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:51:56.171Z"
+              "WhenOpened": "2025-02-03T17:51:56.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_1_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_1_SimpleCode\\Program.cs",
               "ToolTip": "C:\\Users\\ConsoleApp_1\\DZ_1_SimpleCode\\Program.cs",
               "RelativeToolTip": "DZ_1_SimpleCode\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA0wF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T18:24:58.875Z"
+              "WhenOpened": "2025-01-25T18:24:58.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_8_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_8_SimpleCode\\Program.cs",
@@ -206,11 +601,12 @@
               "RelativeToolTip": "DZ_8_SimpleCode\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:28:44.807Z"
+              "WhenOpened": "2025-02-12T18:28:44.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 36,
               "Title": "DZ_8_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_8_SimpleCode\\DZ_8_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_8_SimpleCode\\DZ_8_SimpleCode.csproj",
@@ -218,11 +614,12 @@
               "RelativeToolTip": "DZ_8_SimpleCode\\DZ_8_SimpleCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-22T11:47:01.204Z"
+              "WhenOpened": "2025-02-22T11:47:01.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_9_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_9_SimpleCode\\Program.cs",
@@ -230,11 +627,12 @@
               "RelativeToolTip": "DZ_9_SimpleCode\\Program.cs",
               "ViewState": "AgIAAP4AAAAAAAAAAAAuwBoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:54:45.32Z"
+              "WhenOpened": "2025-02-24T17:54:45.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_10_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_10_SimpleCode\\Program.cs",
@@ -247,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 38,
               "Title": "DZ_6_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj",
@@ -255,11 +653,12 @@
               "RelativeToolTip": "DZ_6_SimpleCode\\DZ_6_SimpleCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T16:43:40.198Z"
+              "WhenOpened": "2025-02-10T16:43:40.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_7_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_7_SimpleCode\\Program.cs",
@@ -267,11 +666,12 @@
               "RelativeToolTip": "DZ_7_SimpleCode\\Program.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAWwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:44:50.021Z"
+              "WhenOpened": "2025-02-10T16:44:50.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 32,
               "Title": "DZ_9_SimpleCode.csproj",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_9_SimpleCode\\DZ_9_SimpleCode.csproj",
               "RelativeDocumentMoniker": "DZ_9_SimpleCode\\DZ_9_SimpleCode.csproj",
@@ -279,11 +679,12 @@
               "RelativeToolTip": "DZ_9_SimpleCode\\DZ_9_SimpleCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-12T16:07:08.592Z"
+              "WhenOpened": "2025-03-12T16:07:08.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_2\u002B3_SimpleCode\\Program.cs",
               "RelativeDocumentMoniker": "DZ_2\u002B3_SimpleCode\\Program.cs",
@@ -291,11 +692,12 @@
               "RelativeToolTip": "DZ_2\u002B3_SimpleCode\\Program.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAgwLYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:58:38.293Z"
+              "WhenOpened": "2025-01-27T16:58:38.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 37,
               "Title": "EncodingDecoding.cs",
               "DocumentMoniker": "C:\\Users\\ConsoleApp_1\\DZ_8_SimpleCode\\EncodingDecoding.cs",
               "RelativeDocumentMoniker": "DZ_8_SimpleCode\\EncodingDecoding.cs",
@@ -303,7 +705,8 @@
               "RelativeToolTip": "DZ_8_SimpleCode\\EncodingDecoding.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwIkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:08:02.197Z"
+              "WhenOpened": "2025-02-22T12:08:02.197Z",
+              "EditorCaption": ""
             }
           ]
         }
